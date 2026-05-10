@@ -6,7 +6,7 @@ This module performs a high-granularity Elasticity Analysis on the synthetic fir
 
 ---
 
-# 🚀 Key Improvements(Based on Francesco's Feedback) and Core Idea of the Code 
+# 🚀 Key Improvements(Based on Francesco's Feedback)
 
 Following the latest methodological review by Francesco, the following core enhancements were implemented to ensure the model's high reliability:
 
@@ -33,6 +33,7 @@ Shares follow a Pareto distribution with an alpha parameter calibrated directly 
 
 This includes the integration of Anchor Companies (real-world giants) to provide a realistic "heavy-tail" to the market distribution.
 
+---
 ---
 
 # 🔬 Methodology: The Elasticity Engine
