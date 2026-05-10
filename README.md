@@ -6,9 +6,9 @@ This module performs a high-granularity Elasticity Analysis on the synthetic fir
 
 ---
 
-# 🚀 Key Improvements (Based on Strategic Feedback)
+# 🚀 Key Improvements(Based on Francesco's Feedback) and Core Idea of the Code 
 
-Following the latest methodological review (Feedback by Francesco), the following core enhancements were implemented to ensure the model's high reliability:
+Following the latest methodological review by Francesco, the following core enhancements were implemented to ensure the model's high reliability:
 
 ## 💰 Shift to Economic Value (USD)
 
